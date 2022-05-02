@@ -1,1 +1,17 @@
-
+{
+"titleOfTheBugReport": "Registration form don’t send",
+ "shortDescription of the error": "Registration form don’t send",
+  "Project": "www.planka.club",
+  "applicationComponent": "Registration form",
+  "versionNumber": "66.66.77",
+   "bugSeverity": "S4",
+   "bugStatus": "Opened",
+  "author": "Solovyeva Ksenia",
+  "assignedTo": "Smirnov Oleg",
+  "environment": "macOS Monterey 12.1", "Chrome 100.0.4896.127",
+  "playback steps": "open registration form",
+  "completedAllFields": "name", "age", "the address", "clicked send",
+  "actualResult": "404 error",
+  "ExpectedResult": "Successful registration",
+  "additions": " "
+}
